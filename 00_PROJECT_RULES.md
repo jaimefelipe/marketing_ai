@@ -1,0 +1,16 @@
+- Objetivo del sistema: generar leads y citas, no likes.
+- Público meta: [placeholder]
+- Tono y estilo: profesional, sobrio, realista, confiable, cercano.
+- Branding: colores rojo y blanco; uso de salvavidas como elemento opcional.
+- Reglas de contenido: poco texto en imagen; CTA siempre; evitar promesas falsas.
+- Estructura de salida (Post, Reel, Historia): Hook, Beneficio, Prueba, CTA.
+- Política de “no inventar”: si faltan datos, dejar TODO como placeholder.
+- Naming conventions: archivos con fecha y nombre corto.
+- Checklist de calidad antes de publicar:
+  - Objetivo orientado a leads y citas.
+  - Público meta indicado o placeholder completo.
+  - Tono profesional y confiable, sin exageraciones.
+  - Branding aplicado (rojo/blanco; salvavidas opcional).
+  - Poco texto en imagen y CTA explícito.
+  - Estructura Hook/Beneficio/Prueba/CTA presente.
+  - Sin datos inventados; placeholders donde falte info.

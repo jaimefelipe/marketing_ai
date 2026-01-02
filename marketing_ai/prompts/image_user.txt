@@ -1,0 +1,12 @@
+Persona: {{persona}}
+Oferta: {{oferta}}
+Ángulo: {{angulo}}
+Idioma: {{idioma}}
+Colores de marca: {{brand_colors}}
+Texto/logo: {{logo_text}}
+
+Solicitudes explícitas:
+- Escena realista relacionada a restaurante/negocio.
+- Incluir elementos visuales de POS/inventario/facturación (sin pantallas con datos reales).
+- NEGATIVE: evitar estrés, confusión, saturación, texto excesivo, logos de terceros.
+- TEXT_OVERLAY: incluir “Salvatec” y una frase corta (máx 6 palabras).

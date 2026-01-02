@@ -21,32 +21,47 @@ Eres un diseñador gráfico senior y marketer B2B. Debes crear imágenes profesi
 
 ## 5) Prompt base (listo para copiar)
 ```
-Fotografía hiperrealista de {{persona}} en {{escenario}}, utilizando software empresarial,
-transmitiendo {{emocion}} y destacando {{beneficio}}.
+Fotografía hiperrealista estilo fotografía comercial documental,
+de {{persona}} en {{escenario}}, utilizando software empresarial
+en un contexto real de trabajo.
 
-Estilo fotografía comercial B2B, iluminación natural suave tipo estudio,
-lente 35mm o 50mm, profundidad de campo moderada, enfoque nítido en el sujeto.
-Encuadre limpio, plano medio o plano tres cuartos, composición equilibrada.
+La persona debe verse natural, profesional y auténtica,
+con rasgos realistas, piel con textura natural,
+imperfecciones sutiles, sin apariencia de modelo o influencer.
 
-Ambiente profesional y ordenado, tecnología accesible y moderna
-(tablet, laptop o sistema POS realista en uso).
-Colores neutros predominantes con acentos en rojo y blanco alineados con la marca Salvatec.
+Iluminación realista tipo luz ambiente interior,
+sin efecto cinematográfico exagerado,
+sin brillo artificial ni estilo beauty.
 
-Imagen realista, alta definición, calidad publicitaria, sin elementos futuristas.
-Texto integrado mínimo o inexistente (máximo 3–5 palabras si aparece).
+Encuadre tipo fotografía publicitaria B2B,
+plano medio o plano tres cuartos,
+cámara a la altura de los ojos,
+profundidad de campo natural,
+enfoque nítido sin suavizado artificial.
+
+Tecnología accesible y realista (pantalla POS, laptop o tablet),
+sin interfaces futuristas ni irreales.
+Colores neutros predominantes con acentos sutiles en rojo y blanco.
+
+Imagen realista, estilo fotografía profesional para marketing empresarial,
+lista para uso en redes sociales y anuncios B2B.
+
 
 ```
 
 ## 6) Prompt negativo (qué evitar)
-- Ilustración, caricatura, anime, render 3D, estilo vectorial,
-- baja resolución, desenfoque excesivo, ruido digital,
-- manos deformes, rostros irreales, ojos desalineados,
-- poses forzadas, expresiones artificiales,
-- ambientes futuristas, ciencia ficción,
-- interfaces irreales, texto ilegible,
-- colores neón, saturación excesiva,
-- estilo stock genérico.
+logo, brand name, text overlay, watermark,
+invented logo, fake brand, misspelled text,
 
+beauty lighting, cinematic portrait,
+perfect skin, plastic skin,
+model face, influencer style,
+anime, illustration, render 3D,
+AI art, unreal proportions,
+
+oversharpen, oversmooth,
+neon colors, fantasy lighting,
+studio glamour photography
 
 
 

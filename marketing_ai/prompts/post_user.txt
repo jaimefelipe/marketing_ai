@@ -1,0 +1,17 @@
+Persona: {{persona}}
+Oferta: {{oferta}}
+Ángulo: {{angulo}}
+Idioma: {{idioma}}
+CTA WhatsApp: {{cta_whatsapp}}
+
+Reglas:
+- No mencionar precios.
+- No prometer “garantizado”.
+- No usar claims médicos/legales absolutos.
+- La CTA debe invitar a agendar demo por WhatsApp.
+
+Entrega el contenido en este formato exacto:
+Hook:
+Desarrollo:
+Beneficio:
+CTA a WhatsApp:

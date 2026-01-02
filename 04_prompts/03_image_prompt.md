@@ -21,30 +21,16 @@ Eres un diseñador gráfico senior y marketer B2B. Debes crear imágenes profesi
 
 ## 5) Prompt base (listo para copiar)
 ```
-Fotografía hiperrealista estilo fotografía comercial documental,
-de {{persona}} en {{escenario}}, utilizando software empresarial
-en un contexto real de trabajo.
+Fotografía ultra realista de {{persona}} trabajando en {{escenario}} real de negocio en LATAM. 
+Estilo fotográfico profesional, iluminación natural suave, profundidad de campo realista, nivel DSLR / mirrorless. 
+La escena transmite {{emocion}} y sensación de {{beneficio}} al usar tecnología práctica.
 
-La persona debe verse natural, profesional y auténtica,
-con rasgos realistas, piel con textura natural,
-imperfecciones sutiles, sin apariencia de modelo o influencer.
+Composición limpia y sobria, con espacio visual vacío en el {{lado_reservado}} de la imagen para uso de branding posterior.
+Colores neutros con acentos sutiles en rojo y blanco en vestimenta o entorno (sin saturación).
 
-Iluminación realista tipo luz ambiente interior,
-sin efecto cinematográfico exagerado,
-sin brillo artificial ni estilo beauty.
-
-Encuadre tipo fotografía publicitaria B2B,
-plano medio o plano tres cuartos,
-cámara a la altura de los ojos,
-profundidad de campo natural,
-enfoque nítido sin suavizado artificial.
-
-Tecnología accesible y realista (pantalla POS, laptop o tablet),
-sin interfaces futuristas ni irreales.
-Colores neutros predominantes con acentos sutiles en rojo y blanco.
-
-Imagen realista, estilo fotografía profesional para marketing empresarial,
-lista para uso en redes sociales y anuncios B2B.
+No incluir texto, logotipos, marcas, nombres de empresas ni pantallas legibles.
+No estilo ilustrado, no caricatura, no 3D, no CGI, no render.
+Apariencia 100% fotográfica, real, profesional y usable para marketing B2B.
 
 
 ```

@@ -21,15 +21,42 @@ Eres un diseñador gráfico senior y marketer B2B. Debes crear imágenes profesi
 
 ## 5) Prompt base (listo para copiar)
 ```
-Fotografía realista de {{persona}} en {{escenario}}, transmitiendo {{emocion}} y resaltando {{beneficio}}. Estilo profesional B2B, iluminación natural, encuadre limpio, detalles nítidos. Tecnología accesible y moderna, con elementos en rojo y blanco como acentos visuales. Composición sobria, enfoque en el uso práctico del software. Poco texto integrado, máximo 3–5 palabras si aparece.
+## Fotografía realista de {{persona}} en {{escenario}}, transmitiendo {{emocion}} y resaltando {{beneficio}}. Estilo profesional B2B, iluminación natural, encuadre limpio, detalles nítidos. Tecnología accesible y moderna, con elementos en rojo y blanco ## como acentos visuales. Composición sobria, enfoque en el uso práctico del software. Poco texto integrado, máximo 3–5 palabras si aparece.
+
+Fotografía hiperrealista de {{persona}} en {{escenario}}, utilizando software empresarial,
+transmitiendo {{emocion}} y destacando {{beneficio}}.
+
+Estilo fotografía comercial B2B, iluminación natural suave tipo estudio,
+lente 35mm o 50mm, profundidad de campo moderada, enfoque nítido en el sujeto.
+Encuadre limpio, plano medio o plano tres cuartos, composición equilibrada.
+
+Ambiente profesional y ordenado, tecnología accesible y moderna
+(tablet, laptop o sistema POS realista en uso).
+Colores neutros predominantes con acentos en rojo y blanco alineados con la marca Salvatec.
+
+Imagen realista, alta definición, calidad publicitaria, sin elementos futuristas.
+Texto integrado mínimo o inexistente (máximo 3–5 palabras si aparece).
+
 ```
 
 ## 6) Prompt negativo (qué evitar)
-- Estilo caricaturesco, ilustración, vectorial o 3D.
-- Ambientes futuristas, ciencia ficción o tecnología irreal.
-- Exceso de texto, tipografías dominantes o slogans largos.
-- Colores neón, paletas saturadas o fuera del rojo/blanco.
-- Personas poco profesionales, poses forzadas o expresiones ambiguas.
+## - Estilo caricaturesco, ilustración, vectorial o 3D.
+##- Ambientes futuristas, ciencia ficción o tecnología irreal.
+##- Exceso de texto, tipografías dominantes o slogans largos.
+##- Colores neón, paletas saturadas o fuera del rojo/blanco.
+##- Personas poco profesionales, poses forzadas o expresiones ambiguas.
+
+- Ilustración, caricatura, anime, render 3D, estilo vectorial,
+- baja resolución, desenfoque excesivo, ruido digital,
+- manos deformes, rostros irreales, ojos desalineados,
+- poses forzadas, expresiones artificiales,
+- ambientes futuristas, ciencia ficción,
+- interfaces irreales, texto ilegible,
+- colores neón, saturación excesiva,
+- estilo stock genérico.
+
+
+
 
 ## 7) Checklist de calidad visual (5 puntos)
 1. La escena luce realista y profesional.

@@ -21,8 +21,6 @@ Eres un diseñador gráfico senior y marketer B2B. Debes crear imágenes profesi
 
 ## 5) Prompt base (listo para copiar)
 ```
-## Fotografía realista de {{persona}} en {{escenario}}, transmitiendo {{emocion}} y resaltando {{beneficio}}. Estilo profesional B2B, iluminación natural, encuadre limpio, detalles nítidos. Tecnología accesible y moderna, con elementos en rojo y blanco ## como acentos visuales. Composición sobria, enfoque en el uso práctico del software. Poco texto integrado, máximo 3–5 palabras si aparece.
-
 Fotografía hiperrealista de {{persona}} en {{escenario}}, utilizando software empresarial,
 transmitiendo {{emocion}} y destacando {{beneficio}}.
 
@@ -40,12 +38,6 @@ Texto integrado mínimo o inexistente (máximo 3–5 palabras si aparece).
 ```
 
 ## 6) Prompt negativo (qué evitar)
-## - Estilo caricaturesco, ilustración, vectorial o 3D.
-##- Ambientes futuristas, ciencia ficción o tecnología irreal.
-##- Exceso de texto, tipografías dominantes o slogans largos.
-##- Colores neón, paletas saturadas o fuera del rojo/blanco.
-##- Personas poco profesionales, poses forzadas o expresiones ambiguas.
-
 - Ilustración, caricatura, anime, render 3D, estilo vectorial,
 - baja resolución, desenfoque excesivo, ruido digital,
 - manos deformes, rostros irreales, ojos desalineados,
